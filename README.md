@@ -1,2 +1,2 @@
 # bridge
-Bridge between the backend and the frontend
+Bridge between the backend and the frontend.
